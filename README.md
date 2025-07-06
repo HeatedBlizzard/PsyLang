@@ -16,7 +16,7 @@ Here's what you'll need to do to run it:
 
 3. Make a text file.
 
-4. Change the file extension from `.txt` to `.psy`.
+4. Change the file extension from `.txt` to `.psy`. You can now Add your PsyLang code to it.
 
 5. Put both `psylang.py` and your `.psy` file in the **same folder** (or just keep both in your Downloads folder).
 
@@ -58,8 +58,8 @@ PsyLang uses a 16×16 grid, each cell holding a value.
 ## Tips
 
 - You can add spaces and line breaks in your `.psy` files to make your code easier to read — PsyLang will ignore them.
-- Experiment with key bindings to add interactivity.
-
+- Anything works as a comment due to how psylang.py is coded - if you have text that isn't part of the main commands, PsyLang ignores it.
+ 
 ---
 
 ***Good Luck.***
