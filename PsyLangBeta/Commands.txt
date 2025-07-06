@@ -1,3 +1,0 @@
-This is the basic version of PsyLang. No commands here, because those are shown in the README file. Go read that, you baffoon.
-
-By the way, if you're using this language, you're either a masochist, a psychopath, like staring at schizophrenic writings of a madman, or being held hostage.
