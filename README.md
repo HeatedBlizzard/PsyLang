@@ -16,7 +16,7 @@ Here's what you'll need to do to run it:
 
 3. Make a text file.
 
-4. Change the file extension from `.txt` to `.psy`. You can now Add your PsyLang code to it.
+4. Change the file extension from `.txt` to `.psy`. You can now add your PsyLang code to it.
 
 5. Put both `psylang.py` and your `.psy` file in the **same folder** (or just keep both in your Downloads folder).
 
