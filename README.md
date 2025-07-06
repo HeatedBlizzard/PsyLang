@@ -31,6 +31,7 @@ Here's what you'll need to do to run it:
    ```bash
    python psylang.py yourprogram.psy
 
+#### Replace `psylang.py` with your version of PsyLang (EX. `PsyLang1.py`, `Psylang2.py`, `Psylang2_1.py`, etc.)
 ---
 
 # How PsyLang Works
@@ -62,7 +63,7 @@ PsyLang uses a 16×16 grid, each cell holding a value.
 ## Tips
 
 - You can add spaces and line breaks in your `.psy` files to make your code easier to read — PsyLang will ignore them.
-- Anything works as a comment due to how psylang.py is coded - if you have text that isn't part of the main commands, PsyLang ignores it.
+- Anything works as a comment due to how `psylang.py` is coded - if you have text that isn't part of the main commands, PsyLang ignores it.
  
 ---
 
