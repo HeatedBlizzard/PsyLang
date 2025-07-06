@@ -31,7 +31,7 @@ Here's what you'll need to do to run it:
    ```bash
    python psylang.py yourprogram.psy
 
-#### Replace `psylang.py` with your version of PsyLang (EX. `PsyLang1.py`, `Psylang2.py`, `Psylang2_1.py`, etc.)
+#### Replace `psylang.py` with your version of PsyLang (EX. `psylang1.py`, `psylang2.py`, `psylang2_1.py`, etc.)
 ---
 
 # How PsyLang Works
