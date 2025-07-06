@@ -11,18 +11,22 @@ Here's what you'll need to do to run it:
 
 1. Install Python (if you don't already have it).  
    Download from [python.org](https://python.org/downloads).
+2. In your terminal, type:
+   ```bash
+   pip install pygame
+(Again, if you haven't already)
 
-2. Download `psylang.py` (the interpreter).
+3. Download `psylang.py` (the interpreter).
 
-3. Make a text file.
+4. Make a text file.
 
-4. Change the file extension from `.txt` to `.psy`. You can now add your PsyLang code to it.
+5. Change the file extension from `.txt` to `.psy`. You can now add your PsyLang code to it.
 
-5. Put both `psylang.py` and your `.psy` file in the **same folder** (or just keep both in your Downloads folder).
+6. Put both `psylang.py` and your `.psy` file in the **same folder** (or just keep both in your Downloads folder).
 
-6. Open your terminal (Command Prompt on Windows, Terminal on macOS/Linux), and change directory to that folder.  
+7. Open your terminal (Command Prompt on Windows, Terminal on macOS/Linux), and change directory to that folder.  
 
-7. Run your PsyLang program by typing:
+8. Run your PsyLang program by typing:
 
    ```bash
    python psylang.py yourprogram.psy
