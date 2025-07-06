@@ -29,8 +29,8 @@ Here's what you'll need to do to run it:
 
 ---
 
-## How PsyLang Works
-# Subject to change in future updates, this only applies to the 1.0 version.
+# How PsyLang Works
+## Subject to change in future updates, this only applies to the 1.0 version.
 PsyLang uses a 16×16 grid, each cell holding a value.  
 - If a cell’s value is **0**, the cell is **black**.  
 - If greater than 0, the cell is **white**.  
@@ -40,8 +40,8 @@ PsyLang uses a 16×16 grid, each cell holding a value.
 
 ---
 
-## PsyLang Commands
-# More commands to be added in future updates.
+# PsyLang Commands
+## More commands to be added in future updates.
 | Command    | Description                                                               |
 |------------|---------------------------------------------------------------------------|
 | `>`        | Move pointer **right** (wraps at grid edge)                              |
