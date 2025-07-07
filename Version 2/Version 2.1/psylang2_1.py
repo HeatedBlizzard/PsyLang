@@ -1,15 +1,3 @@
-
-"""PsyLang Interpreter v3
-Adds:
- - showCell()     : red border on pointer
- - %[x/y]         : random integer between x and y inclusive; value is inlined at runtime
- - $[t][code]     : every t seconds run code         
-
-Removed old R[] and T[] commands.
-"""
-
-import pygame, sys, re, random, time
-
 ### Config ###
 GRID_SIZE   = 16
 CELL_SIZE   = 32
