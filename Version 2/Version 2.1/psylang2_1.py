@@ -1,3 +1,5 @@
+import pygame, sys, re, random, time
+
 ### Config ###
 GRID_SIZE   = 16
 CELL_SIZE   = 32
